@@ -10,7 +10,7 @@
 - ⚡ I like to learn new things and implement them
 
 <br><br>
-<br>
+
 <h1 align="center">Tech Stack 👨‍💻</h1>
 <p align=center>
 <image src="assets/c.svg" width=30 title="C++">
@@ -27,13 +27,15 @@
 
 ___
 
-<br><h1 align="center">🏅Github Stats🏅</h1>
+<h1 align="center">🏅Github Stats🏅</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KunalA18&label=Profile%20Views&color=blue&style=flat-square" alt="KunalA18"></p> 
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalA18&theme=radical) |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalA18&theme=radical) |
 | --- | --- |
-| ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalA18&theme=radical) | ![Jokes Card](https://readme-jokes.vercel.app/api) |![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=KunalA18&custom_title=Kunal%20Agarwal's%20Contribution%20Graph&theme=react-dark)
+| ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalA18&theme=radical) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=KunalA18&custom_title=Kunal%20Agarwal's%20Contribution%20Graph&theme=react-dark)
 
 <br>
 
