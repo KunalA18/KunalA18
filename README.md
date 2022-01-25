@@ -3,7 +3,7 @@
 <img src="assets/programmer.gif" align ="right" width=280>
 
 - 🔭 I’m currently pursuing Bachelors in Computer Engineering at VJTI,Mumbai
-- 🌱 I’m currently learning Web Development and Data Structures and Algorithms
+- 🌱 I’m currently learning Web Development and Elixir language
 - 👯 I’m looking to collaborate on Web Dev and Deep Learning projects
 - 💬 Ask me about front-end web development and Deep learning(GANS)
 - 📫 How to reach me: <a href="mailto: kunalagarwal1072002@gmail.com">kunalagarwal1072002@gmail.com</a> 
