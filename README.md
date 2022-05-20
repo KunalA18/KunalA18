@@ -1,13 +1,19 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kunal Agarwal!
 
-<img src="assets/programmer.gif" align ="right" width=280>
-
+<h1 align="center">
+<img src="assets/programmer.gif" align ="center" width=300>
+  </h1>
+  
 - 🔭 I’m currently pursuing Bachelors in Computer Engineering at VJTI,Mumbai
 - 🌱 I’m currently learning Image Processing and SLAM robotics
 - 👯 I’m looking to collaborate on Web Dev and Computer Vision projects
 - 💬 Ask me about front-end web development, Image Processing and Robotics
 - 📫 How to reach me: <a href="mailto: kunalagarwal1072002@gmail.com">kunalagarwal1072002@gmail.com</a> 
-- ⚡ I like to learn new things and implement them
+- ⚡ I like to learn new things and implement them    
+       
+
+    
+
 
 <br><br>
 
