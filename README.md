@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kunal Agarwal!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">, I am Kunal Agarwal!
 
 <h1 align="center">
 <img src="assets/programmer.gif" align ="center" width=300>
