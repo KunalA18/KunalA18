@@ -3,11 +3,11 @@
 <h1 align="center">
 <img src="assets/programmer.gif" align ="center" width=300>
   </h1>
-  
+- 🔭 Currently Pursuing MS in Autonomy & Robotics from Purdue University, West Lafayette
 - 🔭 Pursued B.Tech in Computer Engineering from VJTI, Mumbai
-- 🌱 Currently working as Software Engineer at VISA (Data & AI Platform)
+- 🌱 Worked as Software Engineer at VISA (Data & AI Platform)
 - 👯 I’m looking to collaborate on Robotics & Computer Vision projects
-- 💬 Ask me about Image Processing and Robotics
+- 💬 Ask me about Robotics and Computer Vision
 - 📫 How to reach me: <a href="mailto: kunalagarwal1072002@gmail.com">kunalagarwal1072002@gmail.com</a> 
 - ⚡ Inquisitive about learning new and impactful things   
        
